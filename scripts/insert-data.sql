@@ -1,0 +1,1 @@
+INSERT INTO data VALUES (1, 'Moshe', 'shulman'), (2, 'eli', 'fisher'), (3, 'menachem', 'yarchi'), (4, 'yerucham', 'mendelson'), (5, 'eli', 'shteinman');
